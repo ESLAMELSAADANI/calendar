@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "meteor shower"
+    },
+    {
+        "id": 2,
+        "name": "eclipse"
+    },
+    {
+        "id": 3,
+        "name": "planets conjonction"
+    },
+    {
+        "id": 4,
+        "name": "occultation"
+    },
+    {
+        "id": 5,
+        "name": "comet passing"
+    },
+    {
+        "id": 6,
+        "name": "supermoon"
+    },
+    {
+        "id": 7,
+        "name": "equinox"
+    },
+    {
+        "id": 8,
+        "name": "solstice"
+    },
+    {
+        "id": 9,
+        "name": "planets opposition"
+    },
+    {
+        "id": 10,
+        "name": "full moon"
+    },
+    {
+        "id": 11,
+        "name": "new moon"
+    }
+]
